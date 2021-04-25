@@ -1,3 +1,6 @@
+#!/usr/bin/env ruby
+# -*- coding: utf-8 -*-
+
 # requires
 require 'nmap/xml'
 
